@@ -76,4 +76,4 @@ Hint: Drawing the outputs with pencil and paper may help you understand and solv
 
 ## Hard Mode (Hungry for *way* More)
 
-Read the node documentation and figure out how to prompt for and receive input from the command line.  ([Hint Hint](https://nodejs.org/api/readline.html)).  Make your app take the valid time string from the command line, and output the angle, and then ask if the user would like to (Q)uit or (E)nter another time.
+Read the node documentation and figure out how to prompt for and receive input from the command line.  ([Hint Hint](https://nodejs.org/api/readline.html)! Or maybe there's a module that does it?).  Make your app take the valid time string from the command line, and output the angle, and then ask if the user would like to (Q)uit or (E)nter another time.
