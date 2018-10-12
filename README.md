@@ -3,13 +3,11 @@
 
 # Clock Hand Angle Calculator
 
----
 Type: Morning Exercise<br>
-Creator:<br>
-    Original creators: WDI-Lettuce<br>
-    Adapted by: Thom Page for WDIR-Panthalassa<br>
-Competencies: Logic, Javascript<br>
-Prerequisites: Javascript <br>
+Created By: WDI-Lettuce<br>
+Adapted by: Thom Page for WDIR-Panthalassa<br>
+Competencies: Logic, JavaScript, Problem Solving<br>
+Prerequisites: JavaScript <br>
 
 ---
 
