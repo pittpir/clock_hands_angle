@@ -70,7 +70,6 @@ Hint: Drawing the outputs with pencil and paper may help you understand and solv
 
 # Hungry for More
 
-* Make your function output an error message if someone tries to use invalid values for the time (7:75)
 * Make your function work for military time.
 * Make your function take a valid time string ("7:45", "21:30") IN ADDITION TO the array it already takes.
 
