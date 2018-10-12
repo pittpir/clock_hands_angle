@@ -1,4 +1,4 @@
-![ga](https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/9058/thumb_GA_Cog_Large_Red_RGB.png)
+![ga](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 
 # Clock Hand Angle Calculator
@@ -13,15 +13,14 @@ Prerequisites: Javascript <br>
 
 ---
 
+![clock](https://orpheogroup.com/wp-content/uploads/2014/10/grand-central-clock-crop.jpg)
+
 
 ## Setup
 1. Navigate into your `student_examples` folder for today.
 2. Create a file called `clock_hands.js` file to write your code for this morning's exercise.
 
-## CLOCK HAND ANGLE CALCULATOR
-
-![clock](http://orpheogroup.com/wp-content/uploads/2014/10/grand-central-clock-crop.jpg)
-
+# ToDo:
 
 Write a function `clock` that takes two integers, `hour` and `minute`. The function should calculate the two angles in degrees between the **hour hand** and **minute hand** on a twelve-hour analog clock face.
 
