@@ -19,7 +19,7 @@ Prerequisites: JavaScript, Node <br>
 2. Create a file called `clockHands.js` file to write your code for this morning's exercise.
 3. Use Node to run your file with different values representing times.
 
-# ToDo:
+## ToDo:
 
 Write a function `clock` that takes two integers, `hour` and `minute`. The function should calculate the two angles in degrees between the **hour hand** and **minute hand** on a twelve-hour analog clock face.
 
